@@ -1,29 +1,16 @@
-# vueproject
+# vue+typescript搭建vueproject
 
-## Project setup
+## 下载安装包运行项目之前先执行下面的语句
 ```
-npm install
+npm install/cnpm i（npm install -g cnpm --registry=https://registry.npm.taobao.org安装淘宝镜像）
 ```
 
-### Compiles and hot-reloads for development
+### 运行项目
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 编译项目
 ```
 npm run build
 ```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
